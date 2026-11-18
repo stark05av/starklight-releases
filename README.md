@@ -6,7 +6,7 @@ A lighting console for churches, by Stark AV.
 
 | | |
 | --- | --- |
-| **StarkLight for Mac** | [Download StarkLight 0.9.0 (build 106)](https://github.com/stark05av/starklight-releases/releases/latest/download/StarkLight.dmg) · macOS 14.0 or later |
+| **StarkLight for Mac** | [Download StarkLight 0.9.0 (build 108)](https://github.com/stark05av/starklight-releases/releases/latest/download/StarkLight.dmg) · macOS 14.0 or later |
 | **StarkLight for Claude** | [Download the Claude connector](https://github.com/stark05av/starklight-releases/releases/latest/download/StarkLight-for-Claude.mcpb) · for Claude Desktop |
 
 ## Install StarkLight
@@ -33,8 +33,8 @@ For Claude Code, run this in a terminal once StarkLight is in Applications:
 claude mcp add --scope user starklight -- /Applications/StarkLight.app/Contents/MacOS/starklight-mcp
 ```
 
-## What's new in 0.9.0 (build 106)
+## What's new in 0.9.0 (build 108)
 
-First release with automatic updates
+The Dock icon stays red while StarkLight is open.
 
 [Every version](https://github.com/stark05av/starklight-releases/releases)
